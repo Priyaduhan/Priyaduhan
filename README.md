@@ -17,8 +17,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ## Get in Touch
 
 - **Email:** duhanpriya264@gmail.com
-- **LinkedIn:** www.linkedin.com/in/
-priya-duhan-9a7523240
+
 
 
 Feel free to reach out if you'd like to collaborate on a project or just want to say hi! I'm always excited to connect with fellow developers and tech enthusiasts.
