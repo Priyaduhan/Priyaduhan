@@ -8,9 +8,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## Skills
 
-- **Languages:** JavaScript, Python, Java
+- **Languages:** JavaScript,Java
 - **Frameworks**: React, Node.js
-- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Cloud:** AWS
 
 
