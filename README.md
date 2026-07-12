@@ -1,26 +1,72 @@
-# Hi there, I'm Priyaduhan! 👋
+# Hi there, I'm Priya Duhan 👋
+
+### Frontend Developer | React.js | Next.js | TypeScript | JavaScript
 
 Welcome to my GitHub profile!
 
-## About Me
+## 👩‍💻 About Me
 
-I'm a passionate software developer with a keen interest in open-source projects. I love exploring new technologies and constantly improving my skills. My primary focus is on web development, but I'm always open to learning new things and taking on new challenges.
+I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming complex ideas into intuitive user experiences while writing clean, scalable, and maintainable code.
 
-## Skills
+Currently, I work on enterprise-level web applications where I build reusable components, optimize application performance, integrate REST APIs, and create interactive dashboards. I'm constantly learning new technologies and best practices to become a better software engineer.
 
-- **Languages:** JavaScript,Java
-- **Frameworks**: React, Node.js
-- **Cloud:** AWS
+## 🚀 Tech Stack
 
+### Languages
 
-## Get in Touch
+* JavaScript (ES6+)
+* TypeScript
 
-- **Email:** duhanpriya264@gmail.com
+### Frontend
 
+* React.js
+* Next.js
+* HTML5
+* CSS3
+* Tailwind CSS
+* Shadcn UI
 
+### Backend
 
-Feel free to reach out if you'd like to collaborate on a project or just want to say hi! I'm always excited to connect with fellow developers and tech enthusiasts.
+* Node.js
+* Express.js
 
-Thanks for visiting my profile!
+### Database
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyaduhan&show_icons=true&theme=radical)
+* MongoDB
+
+### Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* Vite
+* npm
+* Postman
+* VS Code
+* Figma
+
+### Cloud
+
+* AWS (Basics)
+
+## 💼 What I Enjoy Building
+
+* Responsive Web Applications
+* Admin Dashboards
+* CRM & ERP Systems
+* Reusable UI Component Libraries
+* Performance Optimizations
+* API Integrations
+
+## 📫 Let's Connect
+
+* 📧 **Email:** [duhanpriya264@gmail.com](mailto:duhanpriya264@gmail.com)
+* 💼 **LinkedIn:** [www.linkedin.com/in/priyaduhan](http://www.linkedin.com/in/priyaduhan)
+
+I'm always open to collaborating on interesting projects, contributing to open source, or discussing frontend development and modern web technologies.
+
+Thanks for visiting my profile! ⭐
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyaduhan\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyaduhan\&layout=compact\&theme=radical)
